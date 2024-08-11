@@ -16,8 +16,11 @@
                                                                                                   
 
                                                                                                     
-        
+<p>
+    
     about me ♥︎
+
+
 
     
     │▸ she/her - brazilian - (pt/br + english)
@@ -29,7 +32,7 @@
           ▸  english
 
 
-
+</p>        
 
 
 
