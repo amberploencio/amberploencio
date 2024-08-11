@@ -5,11 +5,10 @@
             <img src="3986f5f2b4d897b2329e553d40789afa.jpg" style="width: 200%; border: none;"/>
         </td>
         <td style="width: -100%; vertical-align: center;">
-            <p style="font-family: monospace; font-size: 160px;">
+            <p style="font-family: monospace; font-size: 1600px;">
  
     
-𝕬𝖒𝖇𝖊𝖗 𝕻𝖑𝖔𝖊̂𝖓𝖈𝖎𝖔
-
+        𝕬𝖒𝖇𝖊𝖗 𝕻𝖑𝖔𝖊̂𝖓𝖈𝖎𝖔 
     
 </p>                                                                                                                            
                                                                                                   
