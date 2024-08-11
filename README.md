@@ -1,8 +1,8 @@
 
 <table>
     <tr>
-        <td style="width: 50%;">
-            <img src="https://github.com/amberploencio/amberploencio/blob/main/tomie.jpg" style="width: 100%; border: none;"/>
+        <td style="width:10%;">
+            <img src="https://github.com/amberploencio/amberploencio/blob/main/tomie.jpg" style="width:200%; border: none;"/>
         </td>
         <td style="width: -100%; vertical-align: center;">
             <p style="font-family: monospace; font-size: 160px;">
