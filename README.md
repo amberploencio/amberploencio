@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td style="width: 500%;">
-            <img src="3986f5f2b4d897b2329e553d40789afa.jpg" style="width: 300%; border: none;"/>
+            <img src="" style="width: 300%; border: none;"/>
         </td>
         <td style="width: -100%; vertical-align: center;">
             <p style="font-family: monospace; font-size: 160px;">
