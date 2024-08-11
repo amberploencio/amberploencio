@@ -5,7 +5,7 @@
             <img src="https://github.com/amberploencio/amberploencio/blob/main/279a7dbb7b58444d155aff3c7415587e.jpg" alt="Tommie" style="width: 200%; border: none;"/>
         </td>
         <td style="width: 50%; vertical-align: top;">
-            <p style="font-family: monospace; font-size: 16px;">
+            <p style="font-family: monospace; font-size: 160px;">
                  
  █████╗ ███╗   ███╗██████╗ ███████╗██████╗     ██████╗ ██╗      ██████╗ ███╗   ██╗ ██████╗██╗ ██████╗ 
  ██╔══██╗████╗ ████║██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║     ██╔═══██╗████╗  ██║██╔════╝██║██╔═══██╗
