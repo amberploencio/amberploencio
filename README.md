@@ -1,25 +1,21 @@
 
 <table>
     <tr>
-        <td style="width: 50%;">
-            <img src="https://github.com/amberploencio/amberploencio/blob/main/279a7dbb7b58444d155aff3c7415587e.jpg" alt="Tommie" style="width: 100%; border: none;"/>
+        <td style="width: 100%;">
+            <img src="https://github.com/amberploencio/amberploencio/blob/main/279a7dbb7b58444d155aff3c7415587e.jpg" alt="Tommie" style="width: 50%; border: none;"/>
         </td>
-        <td style="width: -10%; vertical-align: top;">
-            <p style="font-family: monospace; font-size: 2px;">
+        <td style="width: -100%; vertical-align: top;">
+            <p style="font-family: monospace; font-size: 16px;">
+                          _                         
+  /\  ._ _  |_   _  ._   |_) |  _   _  ._   _ o  _  
+ /--\ | | | |_) (/_ |    |   | (_) (/_ | | (_ | (_) 
+                                                    
+
+</p>                                                                                                                            
 
 
 
-   ____      __    __    ______    _____ ______     _____  _____       ____     _____     __      _   ____  _____   ____    
-  (    )     \ \  / /   (_   _ \  / ___/(   __ \   (  __ \(_   _)     / __ \   / ___/    /  \    / ) / ___)(_   _) / __ \   
-  / /\ \     () \/ ()     ) (_) )( (__   ) (__) )   ) )_) ) | |      / /  \ \ ( (__     / /\ \  / / / /      | |  / /  \ \  
- ( (__) )    / _  _ \     \   _/  ) __) (    __/   (  ___/  | |     ( ()  () ) ) __)    ) ) ) ) ) )( (       | | ( ()  () ) 
-  )    (    / / \/ \ \    /  _ \ ( (     ) \ \  _   ) )     | |   __( ()  () )( (      ( ( ( ( ( ( ( (       | | ( ()  () ) 
- /  /\  \  /_/      \_\  _) (_) ) \ \___( ( \ \_)) ( (    __| |___) )\ \__/ /  \ \___  / /  \ \/ /  \ \___  _| |__\ \__/ /  
-/__(  )__\(/          \)(______/   \____\)_) \__/  /__\   \________/  \____/    \____\(_/    \__/    \____)/_____( \____/   
-                                                                                                                            
 
-
-</p>
                                                                                                       
 
                                                                                                        
@@ -36,9 +32,8 @@
 
 
 
-
-
-
-
 </tr>
  </table>
+
+
+
