@@ -13,7 +13,6 @@
     
 </p>                                                                                                                            
                                                                                                   
-
                                                                                                     
         
     about me ♥︎
@@ -26,7 +25,6 @@
           ▸  python for data analysis
           ▸  introduction to cybersecurity
           ▸  english
-
 
 
 
