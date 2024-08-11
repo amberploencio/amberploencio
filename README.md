@@ -1,7 +1,7 @@
 
 <table>
     <tr>
-        <td style="width: 10%;">
+        <td style="width: 100%;">
             <img src="https://github.com/amberploencio/amberploencio/blob/main/aaa.jpg" style="width: 200%; border: none;"/>
         </td>
         <td style="width: -100%; vertical-align: center;">
