@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td style="width: 10%;">
-            <img src="https://github.com/amberploencio/amberploencio/blob/main/3986f5f2b4d897b2329e553d40789afad.jpg" alt="Tommie" style="width: 200%; border: none;"/>
+            <img src="https://github.com/amberploencio/amberploencio/blob/main/3986f5f2b4d897b2329e553d40789afadaaa.jpg" alt="Tommie" style="width: 200%; border: none;"/>
         </td>
         <td style="width: -100%; vertical-align: center;">
             <p style="font-family: monospace; font-size: 160px;">
@@ -29,7 +29,6 @@
     
     │▸ she/her - brazilian - (pt/br + english)
     │   ┗ ▸ software engineer, backend & Cyber Security
-    │
     │▸ learning
         ┗ ▸  python
           ▸  python for data analysis
