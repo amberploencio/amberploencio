@@ -22,7 +22,7 @@
 
     
     │▸ she/her - brazilian - (pt/br + english)
-    │   ┗ ▸ software engineer, backend & Cyber Security                                                           
+    │   ┗ ▸ software engineer, backend & Cyber Security                                                     
     │▸ learning
         ┗ ▸  python
           ▸  python for data analysis
