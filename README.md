@@ -6,7 +6,6 @@
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">  
-            tem algo errado?
             </p>
         </td>
     </tr>
