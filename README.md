@@ -1,13 +1,16 @@
 
 <table>
     <tr>
-        <!-- Ajuste da largura da célula -->
         <td style="width: 70%;">
-            <!-- Ajuste da largura da imagem -->
-            <img src="https://github.com/amberploencio/amberploencio/blob/main/tomie.jpg" style="width:100%; border: none;"/>
+            <img src="https://raw.githubusercontent.com/amberploencio/amberploencio/main/tomie.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
-            <p style="font-family: monospace; font-size: 80px;">    
+            <p style="font-family: monospace; font-size: 80px;">  
+            tem algo errado?
+            </p>
+        </td>
+    </tr>
+</table>  
                 
         𝕬𝖒𝖇𝖊𝖗 𝕻𝖑𝖔𝖊𝖓𝖈𝖎𝖔 
     
